@@ -1,8 +1,8 @@
 # 0x01. React intro
 # Concepts
 For this project, we expect you to look at this concept:
+https://intranet.alxswe.com/concepts/547
 
-- React
 ![image](https://github.com/Totybeca/alx-react/assets/106770765/1037d0ee-885e-463e-baf4-ba745495f4b6)
 
 # Resources
