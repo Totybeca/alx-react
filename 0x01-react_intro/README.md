@@ -3,7 +3,8 @@
 For this project, we expect you to look at this concept:
 
 - React
-![image](https://github.com/Totybeca/alx-react/assets/106770765/b52c4610-079c-49ef-a4a2-a963212265f4
+![image](https://github.com/Totybeca/alx-react/assets/106770765/1037d0ee-885e-463e-baf4-ba745495f4b6)
+
 # Resources
 Read or watch:
 
